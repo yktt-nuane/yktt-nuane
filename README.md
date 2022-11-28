@@ -7,3 +7,5 @@
 <a href="https://github.com/yktt-nuane">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yktt-nuane&layout=compact&theme=tokyonight" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yktt-nuane)](https://github.com/yktt-nuane/github-profile-trophy)
